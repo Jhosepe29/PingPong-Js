@@ -52,8 +52,9 @@
 
         },
 /**
- * Reacciona a la colisiona con una barra que recibe como parametro
- *
+ * Reacciona a la colisiona con una barra 
+ * que recibe como parametro
+ * y que se pueda rebotar la pelota
  * **/
         collision: function(bar){
 
